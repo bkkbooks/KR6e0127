@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0127/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴融會一乘義章明宗記
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n0985.xml
+    old_id: X58n0985
+hash: sha256:1b22bf81e289d4c3131cec750b7cfcb9287625af974ad4fb5391a3dad12d7ccc

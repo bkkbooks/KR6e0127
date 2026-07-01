@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6e0127/v1
+canonical_location: https://kanripo.org/bkk/KR6e0127/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴融會一乘義章明宗記
+  identifiers:
+    alt_id:
+    - X58n0985
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n0985.xml
+    old_id: X58n0985
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0127_000.yaml, hash: 'sha256:1b22bf81e289d4c3131cec750b7cfcb9287625af974ad4fb5391a3dad12d7ccc'}
+  - {seq: 1, filename: KR6e0127_001.yaml, hash: 'sha256:4fd00523fdf76a18af011422bf36f1cc5222f8facfbcef0b6a22d0316ad53843'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0127_001.markers.yaml, hash: 'sha256:c260421285452a0c6457591ffc2d1e8c38c74bdaf92b47f97da57c84185ccbf8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0127_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 36765
+  label: 釋雲華尊者融會一乘義章明宗記
+  type: juan
+  level: 1
+hash: sha256:31eac02ccf571f40feb5c1cb0ddc4bf1f297ba2ff64345f6db5ea34430175c8d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
