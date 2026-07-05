@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0127_000.yaml, hash: 'sha256:1b22bf81e289d4c3131cec750b7cfcb9287625af974ad4fb5391a3dad12d7ccc'}
-  - {seq: 1, filename: KR6e0127_001.yaml, hash: 'sha256:4fd00523fdf76a18af011422bf36f1cc5222f8facfbcef0b6a22d0316ad53843'}
+  - {seq: 1, filename: KR6e0127_001.yaml, hash: 'sha256:1d38b62118affd68c575fc885d3e96aa96156ad459f09d3acce2d6227e271110'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0127_001.markers.yaml, hash: 'sha256:c260421285452a0c6457591ffc2d1e8c38c74bdaf92b47f97da57c84185ccbf8'}
+  - {seq: 0, role: markers, filename: assets/KR6e0127_000.markers.yaml, hash: 'sha256:f3c9590ae6059d8cf024162fe6d300fe9e8d64ba903abddb1567fefe1984ce70'}
+  - {seq: 1, role: markers, filename: assets/KR6e0127_001.markers.yaml, hash: 'sha256:0f52c9b5e17946e5534e918340ec3113b48e27cbfcc963285df3c169aed8cd18'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 釋雲華尊者融會一乘義章明宗記
   type: juan
   level: 1
-hash: sha256:31eac02ccf571f40feb5c1cb0ddc4bf1f297ba2ff64345f6db5ea34430175c8d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8eaa7854082ec94b7f84ec6063d2400567cf4773f7a76715dfad697324b20fcc
