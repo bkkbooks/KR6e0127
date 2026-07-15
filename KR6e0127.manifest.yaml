@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0127/v1
 canonical_location: https://kanripo.org/bkk/KR6e0127/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 華嚴融會一乘義章明宗記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0127_000.yaml, hash: 'sha256:1b22bf81e289d4c3131cec750b7cfcb9287625af974ad4fb5391a3dad12d7ccc'}
-  - {seq: 1, filename: KR6e0127_001.yaml, hash: 'sha256:1d38b62118affd68c575fc885d3e96aa96156ad459f09d3acce2d6227e271110'}
+  - {seq: 1, filename: KR6e0127_001.yaml, hash: 'sha256:8468f6dfab3b744b17093595a58d6386fb82c24b7a75f1c331c21a342cb454e8'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0127_000.markers.yaml, hash: 'sha256:f3c9590ae6059d8cf024162fe6d300fe9e8d64ba903abddb1567fefe1984ce70'}
-  - {seq: 1, role: markers, filename: assets/KR6e0127_001.markers.yaml, hash: 'sha256:0f52c9b5e17946e5534e918340ec3113b48e27cbfcc963285df3c169aed8cd18'}
+  - {seq: 1, role: markers, filename: assets/KR6e0127_001.markers.yaml, hash: 'sha256:15bb99cee7f2f4d4f14a8f935711b0c64d96f6c4dbd204451753841f4bae1a5e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 釋雲華尊者融會一乘義章明宗記
   type: juan
   level: 1
-hash: sha256:8eaa7854082ec94b7f84ec6063d2400567cf4773f7a76715dfad697324b20fcc
+hash: sha256:29c5bbfec4abd61fd411948d23c3a1e954d414c69d70bb058e545f2289af91e1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
